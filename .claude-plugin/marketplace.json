@@ -1,0 +1,5 @@
+{
+  "name": "claude-usage-bar",
+  "owner": { "name": "4chil" },
+  "plugins": [{ "name": "usage-bar", "source": "./" }]
+}
